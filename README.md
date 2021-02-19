@@ -12,6 +12,8 @@ Para rodar o projeto:
 ```
 yarn dev
 ```
+
+- Crie um arquivo **.env** baseado no **.env.example** e atribua algum valor ao **SECRET**
 - Utilize o arquivo **api-grupfy-juliocesar.json**, esse arquivo serve para que você possa importar o Workspace nescessário para o POSTMAN ou Insomnia (Eu utilizei o Insomnia e a importação funciona perfeitamente)
 ---
 - Certifique-se que faça a criação e o login do usuário antes de tentar qualquer outra ação.
